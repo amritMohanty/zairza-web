@@ -22,7 +22,7 @@
     "express-formidable": "^1.2.0",
     "express-partials": "^0.3.0",
     "express-session": "^1.17.1",
-    "firebase-admin": "^9.6.0",
+    "firebase-admin": "^11.4.1",
     "fs": "0.0.1-security",
     "handlebars": "^4.7.7",
     "mongoose": "^5.12.0",
